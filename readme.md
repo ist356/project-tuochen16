@@ -71,5 +71,5 @@ Push your github repository to the github classroom assignment. When you are don
 It is important to me that I see "YOU" in your project. That means:
 
 - Share what you learned,
-- Do something that interests you,
+- Do something that interests you
 - Explain what you did and how it works!

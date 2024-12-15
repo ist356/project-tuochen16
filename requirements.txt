@@ -1,0 +1,9 @@
+kaggle
+pandas
+matplotlib
+seaborn
+numpy
+openpyxl
+streamlit
+plotly
+pytest

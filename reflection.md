@@ -1,25 +1,35 @@
-# Reflection
+### Reflection
 
-Student Name:  name
-Student Email:  email
+Student Name:  Tuo Chen  
+Student Email:  tuchen@syr.edu
 
-## Instructions
+## Reflection Below This Line
 
-Reflection is a key activity of learning. It helps you build a strong metacognition, or "understanding of your own learning." A good learner not only "knows what they know", but they "know what they don't know", too. Learning to reflect takes practice, but if your goal is to become a self-directed learner where you can teach yourself things, reflection is imperative.
+Through this project, I gained valuable experience in performing exploratory data analysis (EDA) on a real-world-like dataset. Specifically:
 
-- Now that you've completed the assignment, share your throughts. What did you learn? What confuses you? Where did you struggle? Where might you need more practice?
-- A good reflection is: **specific as possible**,  **uses the terminology of the problem domain** (what was learned in class / through readings), and **is actionable** (you can pursue next steps, or be aided in the pursuit). That last part is what will make you a self-directed learner.
-- Flex your recall muscles. You might have to review class notes / assigned readings to write your reflection and get the terminology correct.
-- Your reflection is for **you**. Yes I make you write them and I read them, but you are merely practicing to become a better self-directed learner. If you read your reflection 1 week later, does what you wrote advance your learning?
+### What I Learned:
+1. **Data Preprocessing**: I strengthened my skills in cleaning and preparing data for analysis, such as handling date columns, deriving new features (e.g., profit margin), and managing missing values.
+2. **Visualization Techniques**: I learned to effectively use Plotly and Matplotlib to create interactive and static visualizations that uncover trends and patterns in the data.
+3. **Insights from Data**: The importance of understanding seasonal sales patterns, identifying underperforming products, and leveraging regional differences became clear.
+4. **Streamlit for EDA**: This project introduced me to Streamlit, which is excellent for creating interactive dashboards and making analysis accessible.
 
-Examples:
+### Where I Struggled:
+1. **Profitability Analysis**: Calculating accurate profit margins and understanding the drivers of profitability for different products and regions was challenging.
+2. **Handling Negative Growth**: Interpreting negative sales growth trends in certain years and subcategories required careful contextual understanding.
+3. **Streamlit Integration**: Initially, integrating complex visualizations into the Streamlit app was time-consuming and required trial and error.
 
-- **Poor Reflection:**  "I don't understand loops."   
-**Better Reflection:** "I don't undersand how the while loop exits."   
-**Best Reflection:** "I struggle writing the proper exit conditions on a while loop." It's actionable: You can practice this, google it, ask Chat GPT to explain it, etc. 
--  **Poor Reflection** "I learned loops."   
-**Better Reflection** "I learned how to write while loops and their difference from for loops."   
-**Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
+### What Confuses Me:
+1. While analyzing regional trends, the temporary sales surge in the South region (March 2011) seemed unusual, and I am unsure what external factors might have contributed.
+2. The interpretation of high annual average growth rates (AAGR) for certain products like supplies was unclear without additional context.
+
+### Where I Need More Practice:
+1. **Time Series Analysis**: Deeper analysis of trends over time to forecast future sales performance.
+2. **Profitability Drivers**: Understanding factors influencing profitability in more detail.
+3. **Advanced Visualization**: Creating more sophisticated dashboards with Streamlit and Plotly.
+
+### Additional Research Goals (if I had more time):
+1. **Overall Sales Trends**: Investigate how total sales evolved over time and identify significant fluctuations or anomalies that may require attention.
+2. **Profitability Analysis**: Dive deeper into which products are more profitable, the factors influencing profitability, and how the company's overall profitability changed during the analyzed period.
 
 `--- Reflection Below This Line ---`
-
+Through this project, I learned the importance of automated data processing, preprocessing and feature engineering. I used Kaggle API to automate data downloads and improve work efficiency; data cleansing, column filtering, and new feature creation, such as calculating discount totals and profit margins, were accomplished through Pandas to make the data more analytically valuable. In addition, I built an interactive and user-friendly data analysis application by building an interactive visualization application through Streamlit. This project practice not only enhanced my technical skills in Python and data science, but also deepened my understanding of sales data.
