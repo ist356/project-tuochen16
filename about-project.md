@@ -4,7 +4,7 @@ Student Name:  Tuo Chen
 Student Email:  tuchen@syr.edu 
 
 ### What it does
-This project conducts an exploratory data analysis (EDA) on Superstore sales data, a fictional dataset that mimics the operations of a real-world retail company. The analysis aims to uncover valuable insights related to sales trends, customer behavior, and profitability to support data-driven decision-making. Specifically, it addresses:
+This project conducts an  data analysis on Superstore sales data, a fictional dataset that mimics the operations of a real-world retail company. The analysis aims to uncover valuable insights related to sales trends, customer behavior, and profitability to support data-driven decision-making. Specifically, it addresses:
 
 1. **Product Categories**: Identifying the most and least profitable product categories to optimize inventory and marketing strategies.
 2. **Geographical Insights**: Understanding regional sales dynamics to target marketing efforts and allocate resources effectively.
@@ -29,7 +29,7 @@ The project also provides actionable recommendations to improve sales and profit
    streamlit run code/retail_analysis.py
    ```
 5. Interact with the visualizations and insights provided in the Streamlit dashboard.
-6. Run all test code
+6. Run all test code 
    ```bash
    pytest tests/test_processing_util.py
    ```

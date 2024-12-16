@@ -12,7 +12,7 @@ download_kaggle_dataset("ishanshrivastava28/superstore-sales")
 file_path = 'cache/Superstore.xlsx'
 
 # Set up Streamlit app
-st.title("Superstore Sales Analysis")
+st.title("Superstore Sales Analysis") 
 
 # Load and preprocess data
 @st.cache_data

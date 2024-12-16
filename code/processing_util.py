@@ -13,4 +13,4 @@ def add_month_and_year_columns(data: pd.DataFrame, date_column: str) -> pd.DataF
     """Add 'month' and 'year' columns based on a date column."""
     data['month'] = pd.to_datetime(data[date_column]).dt.month
     data['year'] = pd.to_datetime(data[date_column]).dt.year 
-    return data
+    return data 
