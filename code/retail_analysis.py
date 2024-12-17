@@ -155,26 +155,4 @@ st.write(
     - **Seasonal Peaks:** Sales spiked during holidays (November and December), the back-to-school season (September), and Easter (March), revealing strong seasonal trends.
 
     """
-)
-
-st.header("4. Recommendations")
-st.write(
-    """
-    ##### 4.1 **Focus on Top-Performing Products:**
-    - **Increase Inventory and Marketing Efforts:** Allocate more resources to promote and stock high-demand products like phones, chairs, and storage items, especially during peak seasons.
-    - **Upsell Opportunities:** Create bundle offers with these popular items to increase overall revenue.
-
-    ##### 4.2 **Address Underperforming Products:**
-    - **Technology (Copiers):** Analyze customer needs to identify why copiers are underperforming. Introduce updated features or reduce prices to increase competitiveness.
-    - **Furniture (Furnishings):** Investigate demand trends and explore repositioning or rebranding strategies for furnishings.
-    - **Office Supplies (Fasteners):** Consider replacing or diversifying fasteners with products that have higher market demand.
-
-    ##### 4.3 **Capitalize on Seasonal Trends:**
-    - **Targeted Marketing Campaigns:** Launch aggressive promotional campaigns during key sales periods such as holidays, back-to-school, and Easter.
-    - **Seasonal Stock Management:** Ensure adequate inventory levels for high-performing products during these peak times to meet demand and maximize sales.
-
-    ##### 4.4 **Improve Regional Performance:**
-    - **Expand Marketing in the South Region:** Investigate the causes of consistently low sales in the South and implement localized campaigns to boost sales.
-    - **Leverage Strength in the West Region:** Focus on retaining market leadership in the West by enhancing customer loyalty programs and exclusive offers.
-    """
-)
+) 

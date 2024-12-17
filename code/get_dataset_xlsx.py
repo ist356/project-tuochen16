@@ -21,8 +21,7 @@ def download_kaggle_dataset(dataset_path, save_dir="cache"):
 
     print(f"Downloading dataset {dataset_path} to {save_dir}...")
     # Download dataset and unzip it
-    api.dataset_download_files(dataset_path, path=save_dir, unzip=True)
-
+    api.dataset_download_files(dataset_path, path=save_dir, unzip=True) 
     # Remove unnecessary file Superstore.csv
     file_path = os.path.join(save_dir, "Superstore.csv")
     if os.path.exists(file_path):
