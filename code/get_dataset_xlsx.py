@@ -25,7 +25,7 @@ def download_kaggle_dataset(dataset_path, save_dir="cache"):
     # Remove unnecessary file Superstore.csv
     file_path = os.path.join(save_dir, "Superstore.csv")
     if os.path.exists(file_path):
-        try:
+        try: 
             os.remove(file_path)
             print(f"Unnecessary file '{file_path}' deleted.")
         except OSError as e:

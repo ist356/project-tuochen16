@@ -65,7 +65,7 @@ Push your github repository to the github classroom assignment. When you are don
 - Complete your project in the `code` folder and have your tests in the `tests` folder. Any files you save should be in the `cache` folder.
 - There is no graderbot here, so complete the `about-project.md` to explain what your project does and how I should run it. It's okay if I need to run a couple of Python programs.
 - Complete your `reflection.md` to reflect on what you learned, what you struggled with, and what you might do if you had more time with the project. 
-
+ 
 ## In summary
 
 It is important to me that I see "YOU" in your project. That means:

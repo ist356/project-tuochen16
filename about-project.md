@@ -1,7 +1,7 @@
 # About My Project
 
 Student Name:  Tuo Chen 
-Student Email:  tuchen@syr.edu 
+Student Email:  tuchen@syr.edu  
 
 ### What it does
 This project conducts an  data analysis on Superstore sales data, a fictional dataset that mimics the operations of a real-world retail company. The analysis aims to uncover valuable insights related to sales trends, customer behavior, and profitability to support data-driven decision-making. Specifically, it addresses:

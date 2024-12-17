@@ -140,7 +140,7 @@ st.plotly_chart(fig3)
 
 st.write("As shown in the chart above, seasonal trends emerge, with sales increasing during the holidays (November and December), the start of school (September), and Easter (March). This pattern also holds true for regional annual sales data. The West region generally has higher total sales for the year, followed by the East, and the remaining two regions. The South region has lower sales than the other regions every year, with the exception of March 2011, when the South region had more than three times the sales of the second place region.")
 
-# Insights and Recommendations
+# Insights 
 st.header("3. Conclusions")
 st.write(
     """
